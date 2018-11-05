@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "cryptoIndex",
-    "description": "",
+    "description": "A simple react native application to show recent highest and lowest prices for cryptocurrency assets",
     "slug": "cryptoIndex",
     "privacy": "public",
     "sdkVersion": "31.0.0",
@@ -25,6 +25,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "githubUrl": "https://github.com/CaseyKelly/reactNative-cryptoPriceIndex"
   }
 }

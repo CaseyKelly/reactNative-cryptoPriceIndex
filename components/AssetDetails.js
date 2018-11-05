@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, ActivityIndicator, ScrollView, View } from 'react-native';
 import { List, ListItem } from 'react-native-elements';
-import PriceHighlighter from './PriceHighlighter'
+import PriceHighlighter from './PriceHighlighter';
 import fromExponential from 'from-exponential';
 
 class AssetDetails extends React.Component {
